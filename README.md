@@ -6,7 +6,7 @@ EZElectronics (read EaSy Electronics) is a software application designed to help
 
 The goal of the second assignment is as follows:
 
-1. Implement the server of the application, following the requirements defined in ![OfficialRequirementsDocumentV2.md](./OfficialRequirementsDocumentV2.md) and the specifications defined in ![API.md](./API.md). A correct implementation of the server will ensure that the client works as intended with all of its features.
+1. Implement the server of the application, following the requirements defined in [OfficialRequirementsDocumentV2.md](OfficialRequirementsDocumentV2.md) and the specifications defined in [API.md](API.md). A correct implementation of the server will ensure that the client works as intended with all of its features.
 2. Test the implementation of the server. More details on how to perform tests will be provided in the upcoming weeks. The repository contains examples of how to perform unit tests, examples on other testing methodologies will be explained later.
 
 ## Delivery
